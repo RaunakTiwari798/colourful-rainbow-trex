@@ -22,7 +22,7 @@ function preload(){
   
   cloudImage = loadImage("cloud.png");
   
-  obstacle1 = loadImage("obstacle1.png");
+  
   obstacle2 = loadImage("obstacle2.png");
   obstacle3 = loadImage("obstacle3.png");
   obstacle4 = loadImage("obstacle4.png");
